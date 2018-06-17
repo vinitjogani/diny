@@ -1,4 +1,4 @@
-#Diny: Shiny for Python using Dash
+# Diny: Shiny for Python using Dash
 
 Use the ease and convenience of R Shiny in Python to get the best of both worlds. I have tried to get a syntax that looks and feels more like Shiny because I've found it's much more concise than traditional Dash syntax. 
 
